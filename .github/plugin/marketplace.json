@@ -1,0 +1,20 @@
+{
+  "name": "amara",
+  "metadata": {
+    "description": "Amara marketplace is a collection of plugins, agents, prompts, and skills",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "owner": {
+    "name": "Amaris",
+    "email": "amaris@amaris.com"
+  },
+  "plugins": [
+    {
+      "name": "amara-dotnet-development",
+      "source": "amara-dotnet-development",
+      "description": "Essential prompts, instructions, and chat modes for C# and .NET development including testing, documentation, and best practices.",
+      "version": "1.0.0"
+    }
+  ]
+}
