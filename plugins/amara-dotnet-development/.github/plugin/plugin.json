@@ -1,0 +1,23 @@
+{
+  "name": "amara-dotnet-development",
+  "description": "Essential prompts, instructions, and chat modes for C# and .NET development including testing, documentation, and best practices.",
+  "version": "1.1.0",
+  "author": {
+    "name": "Amaris"
+  },
+  "repository": "https://github.com/SpainCoE-Amaris/amara-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "csharp",
+    "dotnet",
+    "aspnet",
+    "testing",
+    "ddd"
+  ],
+  "agents": [
+    "./agents"
+  ],
+  "skills": [
+    "./skills/dotnet-upgrade"
+  ]
+}
