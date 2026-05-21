@@ -14,7 +14,7 @@ Essential prompts, instructions, and chat modes for C# and .NET development incl
 
 | Command | Description |
 |---------|-------------|
-| `/amara-dotnet-development:xunit-testing` | xUnit testing expert skill for .NET projects, focused on quality, edge coverage, and best practices. |
+| `/amara-dotnet-development:test-xunit` | Ready-to-use prompts for comprehensive .NET framework upgrade analysis and execution |
 | `/amara-dotnet-development:dotnet-upgrade` | Ready-to-use prompts for comprehensive .NET framework upgrade analysis and execution |
 
 ### Agents
