@@ -18,6 +18,9 @@
     "./agents"
   ],
   "skills": [
-    "./skills/dotnet-upgrade"
+    "./skills/cqrs-architecture",
+    "./skills/dotnet-upgrade",
+    "./skills/test-xunit",
+    "./skills/xunit-testing"
   ]
 }
