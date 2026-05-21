@@ -2,7 +2,7 @@
   "name": "amara-marketplace",
   "metadata": {
     "description": "Amara marketplace is a collection of plugins, agents, prompts, and skills",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "pluginRoot": "./plugins"
   },
   "owner": {
@@ -11,9 +11,15 @@
   },
   "plugins": [
     {
-      "name": "amara-dotnet-development",
+      "name": "amara-dotnet-agent",
       "source": "amara-dotnet-development",
       "description": "Essential prompts, instructions, and chat modes for C# and .NET development including testing, documentation, and best practices.",
+      "version": "1.1.0"
+    },
+    {
+      "name": "amara-vue-agent",
+      "source": "amara-vue-development",
+      "description": "Agents and skills for Vue 3 + TypeScript frontend development, covering component design, state management, routing, API integration, and testing best practices.",
       "version": "1.0.0"
     }
   ]
