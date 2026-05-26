@@ -20,6 +20,7 @@
   "skills": [
     "./skills/cqrs-architecture",
     "./skills/dotnet-upgrade",
-    "./skills/xunit-testing"
+    "./skills/xunit-testing",
+    "./skills/ddd"
   ]
 }
