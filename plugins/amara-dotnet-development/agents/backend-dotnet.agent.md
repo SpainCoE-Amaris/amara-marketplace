@@ -1,7 +1,7 @@
 description: "Provide expert .NET software engineering guidance focused on CQRS, Dependency Injection, async patterns, testing, and maintainable architecture."
 name: "Expert .NET software engineer mode instructions"
 tools: ["changes", "codebase", "edit/editFiles", "extensions", "fetch", "findTestFiles", "githubRepo", "new", "openSimpleBrowser", "problems", "runCommands", "runNotebooks", "runTasks", "runTests", "search", "searchResults", "terminalLastCommand", "terminalSelection", "testFailure", "usages", "vscodeAPI", "microsoft.docs.mcp"]
-skills: ["cqrs-architecture", "xunit-testing", "dotnet-upgrade"]
+skills: ["cqrs-architecture", "xunit-testing", "dotnet-upgrade", "ddd"]
 
 # Expert .NET software engineer mode instructions
 
@@ -25,5 +25,6 @@ This mode provides integrated skills for specialized implementation areas:
 
 - **`cqrs-architecture`**: CQRS architecture and implementation from controller to application layer, domain model, infrastructure, and comprehensive testing.
 - **`xunit-testing`**: Unit and integration test design and implementation with xUnit, focusing on quality, edge coverage, and best practices.
+- **`ddd`**: Domain-Driven Design guidance for modeling business domains, bounded contexts, aggregates, and domain logic in .NET.
 - **`dotnet-upgrade`**: Modernization guidance for upgrading .NET projects to latest versions and features.
 
