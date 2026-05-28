@@ -15,6 +15,7 @@ Essential prompts, instructions, and chat modes for C# and .NET development incl
 | Command | Description |
 |---------|-------------|
 | `/amara-dotnet-development:xunit-testing` | xUnit testing expert skill for .NET projects, focused on quality, edge coverage, and best practices. |
+| `/amara-dotnet-development:repository-pattern` | Repository Pattern skill for designing persistence abstractions, testable data access, and clean separation of concerns in .NET. |
 | `/amara-dotnet-development:ddd` | Domain-Driven Design expert skill for modeling business domains, aggregates, and clean architecture in .NET. |
 | `/amara-dotnet-development:dotnet-upgrade` | Ready-to-use prompts for comprehensive .NET framework upgrade analysis and execution |
 
