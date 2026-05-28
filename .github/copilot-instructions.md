@@ -174,6 +174,18 @@ Update `.github/plugin/marketplace.json` by adding an entry to the `plugins` arr
 
 Update `README.md` at the root by adding rows to the Agent Catalog table for each new agent.
 
+### Step 7: Add the Contributor
+
+Ask the developer for their **GitHub username**. Then add them to the `## Contributors` section in the root `README.md` (if they are not already listed) using this format:
+
+```html
+<a href="https://github.com/<username>" title="<username>">
+	<img src="https://github.com/<username>.png?size=40" alt="<username>" width="40" height="40" />
+</a>
+```
+
+Append the new `<a>` tag after the last existing contributor entry. Do not remove or reorder existing contributors.
+
 ## Important Rules
 
 - **Naming convention**: Plugin folders must use kebab-case prefixed with `amara-` (e.g., `amara-java-development`).
@@ -195,3 +207,4 @@ Before finalizing, verify:
 - [ ] `README.md` documents all agents and skills
 - [ ] Marketplace registry (`.github/plugin/marketplace.json`) includes the new plugin
 - [ ] Root `README.md` agent catalog is updated
+- [ ] Contributor's GitHub avatar is added to the `## Contributors` section in the root `README.md`
